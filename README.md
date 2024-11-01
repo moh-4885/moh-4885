@@ -2,7 +2,7 @@
   <img height="300" src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif?cid=ecf05e47897zjky9yz5ceol213a6epyk68b1ti679ziyiqvo&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 </div>
 <h1 align="center">Hi 👋, I'm Serradj Mohamed</h1>
-<h3 align="center">A full-Stack web developer and artificial intelligence and data science student</h3>
+<h3 align="center">A full-Stack web developer , artificial intelligence & data science student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moh-4885&label=Profile%20views&color=0e75b6&style=flat" alt="moh-4885" /> </p>
 
